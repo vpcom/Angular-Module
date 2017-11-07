@@ -7,6 +7,6 @@ import { CompCComponent } from './comp-c/comp-c.component';
     CommonModule
   ],
   declarations: [CompCComponent],
-  exports: [CompCComponent]
+  exports: [CompCComponent] // We make the component visible outside the module 2 scope.
 })
 export class Module2Module { }
