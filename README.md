@@ -1,4 +1,4 @@
-# AngularModule
+# Angular4 Module
 
 This app is about demonstrating the basic building blocks on an Angular app. More precisely, it explores how modules share components (directives and pipes) and in another fashion, the services.
 
